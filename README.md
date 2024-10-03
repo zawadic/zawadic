@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zawad Zawad Islam Chowdhury</h1>
 <h3 align="center">Web Designer and Developer</h3>
+(https://media.licdn.com/dms/image/v2/D5616AQHcEfFpq_7zig/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727792451973?e=1733356800&v=beta&t=frDhRCQngxHZ6EoaFPsFKto_6Z88R3iipNH1r_Skgks)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadic&label=Profile%20views&color=0e75b6&style=flat" alt="zawadic" /> </p>
 
