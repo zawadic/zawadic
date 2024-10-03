@@ -1,4 +1,4 @@
-![Web Designer and Developer][(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://media.licdn.com/dms/image/v2/D5616AQHcEfFpq_7zig/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727792451973?e=1733356800&v=beta&t=frDhRCQngxHZ6EoaFPsFKto_6Z88R3iipNH1r_Skgks)
+![Web Designer and Developer][([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/v2/D5616AQHcEfFpq_7zig/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727792451973?e=1733356800&v=beta&t=frDhRCQngxHZ6EoaFPsFKto_6Z88R3iipNH1r_Skgks))]
 ### Hi there 👋, My name is Md. Zawad Islam Chowdhury
 #### Web Designer and Developer
 
