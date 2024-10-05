@@ -1,7 +1,9 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHcEfFpq_7zig/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727792451973?e=1733356800&v=beta&t=frDhRCQngxHZ6EoaFPsFKto_6Z88R3iipNH1r_Skgks" />
 <h1 align="center">Hi 👋, I'm Zawad Zawad Islam Chowdhury</h1>
+<hr>
 <h3 align="center">Web Designer and Developer</h3>
-
+<hr>
+<p><strong>About:</strong>I'm Zawad Islam Chowdhury. I do web developing with Django. I'm do web designing too. My skills are- HTML ,CSS, JavaScript, Bootstrap, Python, Django. I'm want to be a Artificial Intelligence Engineer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadic&label=Profile%20views&color=0e75b6&style=flat" alt="zawadic" /> </p>
 
