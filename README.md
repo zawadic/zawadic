@@ -56,6 +56,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zawadic&show_icons=true&locale=en" alt="zawadic" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawadic&layout=circular)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawadic&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawadic&" alt="zawadic" /></p>
