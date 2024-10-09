@@ -55,5 +55,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zawadic&show_icons=true&locale=en" alt="zawadic" /></p>
+### My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawadic&" alt="zawadic" /></p>
