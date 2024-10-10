@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center">Web Designer and Developer</h3>
 <hr>
-<p><strong>About:</strong>I'm Zawad Islam Chowdhury. I do web developing with Django. I'm do web designing too. My skills are- HTML ,CSS, JavaScript, Bootstrap, Python, Django. I'm want to be a Artificial Intelligence Engineer.</p>
+<p><strong>🙋‍♂️About me:</strong>I'm Zawad Islam Chowdhury. I do web developing with Django. I'm do web designing too. My skills are- HTML ,CSS, JavaScript, Bootstrap, Python, Django. I'm want to be a Artificial Intelligence Engineer.</p>
 
 <ul>
   <li>🌱 I’m currently learning React</li>
