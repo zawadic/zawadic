@@ -5,10 +5,10 @@
 <hr>
 <p><strong>About:</strong>I'm Zawad Islam Chowdhury. I do web developing with Django. I'm do web designing too. My skills are- HTML ,CSS, JavaScript, Bootstrap, Python, Django. I'm want to be a Artificial Intelligence Engineer.</p>
 
-<ol>
+<ul>
   <li>🌱 I’m currently learning React</li>
   <li>💬 Ask me about Progrmming</li>
-</ol>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadic&label=Profile%20views&color=0e75b6&style=flat" alt="zawadic" /> </p>
 
