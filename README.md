@@ -6,7 +6,7 @@
 <p><strong>🙋‍♂️About me:</strong>I'm Zawad Islam Chowdhury. I do web developing with Django. I'm do web designing too. My skills are- HTML ,CSS, JavaScript, Bootstrap, Python, Django. I'm want to be a Artificial Intelligence Engineer.</p>
 
 <ul>
-  <li>🌍Chootogram, Bangladesh</li>
+  <li>🌍Hathazari Upazilla,Chattogram, Bangladesh</li>
   <li>🌱 I’m currently learning React</li>
   <li>💬 Ask me about Progrmming</li>
 </ul>
