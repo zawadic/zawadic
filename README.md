@@ -64,3 +64,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawadic&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawadic&" alt="zawadic" /></p>
+
+<h5>Sports / Game:</h5>
+<ul>
+  <li>🏏Cricket</li>
+  <li>⚽Football</li>
+  <li>🏸Badminton</li>
+  <li>🏃💨Running</li>
+</ul>
