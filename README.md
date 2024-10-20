@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHcEfFpq_7zig/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727792451973?e=1733356800&v=beta&t=frDhRCQngxHZ6EoaFPsFKto_6Z88R3iipNH1r_Skgks" />
-<h1 align="center">Hi 👋, I'm Zawad Zawad Islam Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm  Zawad Islam Chowdhury</h1>
 <hr>
 <h3 align="center">Web Designer and Developer</h3>
 <hr>
