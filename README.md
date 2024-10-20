@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center">Web Designer and Developer</h3>
 <hr>
-<p><strong>🙋‍♂️About me:</strong>I'm Zawad Islam Chowdhury,Web Developer since 2022 at Icon Computer Technology. I do web developing with Django. I'm do web designing too. My skills are- HTML ,CSS, JavaScript, Bootstrap, Python, Django. I'm want to be a Artificial Intelligence Engineer.</p>
+<p><strong>🙋‍♂️About me:</strong>I'm Zawad Islam Chowdhury,Web Developer since 2022 at Icon Computer Technology. I do web developing with Django. I'm do web designing too. My skills are- HTML ,CSS, JavaScript, Bootstrap, Python, Django. I'm want to be an Artificial Intelligence Engineer.</p>
 
 <ul>
   <li>🌍Hathazari Upazilla,Chattogram, Bangladesh</li>
