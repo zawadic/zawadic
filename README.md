@@ -8,7 +8,7 @@
 <ul>
   <li>🌍Hathazari Upazilla,Chattogram, Bangladesh</li>
   <li>🌱 I’m currently learning React</li>
-  <li>💬 Ask me about Progrmming</li>
+  <li>💬 Ask me about <strong>Progrmming <strong/></li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadic&label=Profile%20views&color=0e75b6&style=flat" alt="zawadic" /> </p>
