@@ -19,7 +19,7 @@
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadic&label=Profile%20views&color=0e75b6&style=flat" alt="zawadic" /> </p>
-<h3>📊 GitHub Status</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zawadic" alt="zawadic" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -66,7 +66,7 @@
   </a> 
 </p>
 
-
+<h3>📊 GitHub Status</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zawadic&show_icons=true&locale=en" alt="zawadic" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawadic" />
