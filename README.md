@@ -8,7 +8,7 @@
 <ul>
   <li>🌍Hathazari Upazilla,Chattogram, Bangladesh</li>
   <li>💬 Ask me about <strong>Progrmming </strong></li>
-  <li>🤔 I’m looking for help with <strong>Progrmming </strong> <li>
+  <li>🤔 I’m looking for help with <strong>Progrmming </strong> </li>
   <li>📫 How to reach me: <strong>zawadic@gmail.com</strong> </li>
 </ul>
 
