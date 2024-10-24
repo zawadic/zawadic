@@ -9,7 +9,9 @@
   <li>🌍Hathazari Upazilla,Chattogram, Bangladesh</li>
   <li>💬 Ask me about <strong>Progrmming </strong></li>
   <li>🤔 I’m looking for help with <strong>Progrmming </strong> </li>
-  <li>📫 How to reach me: <strong>zawadic@gmail.com</strong> </li>
+  <li>📫 How to reach me: 
+      <a href="mailto:zawadic@gmail.com">zawadic@gmail.com</a>
+  </li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadic&label=Profile%20views&color=0e75b6&style=flat" alt="zawadic" /> </p>
