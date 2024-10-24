@@ -7,7 +7,6 @@
 
 <ul>
   <li>🌍Hathazari Upazilla,Chattogram, Bangladesh</li>
-  <li>🌱 I’m currently learning React</li>
   <li>💬 Ask me about <strong>Progrmming <strong/></li>
 </ul>
 
