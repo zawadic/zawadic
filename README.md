@@ -61,6 +61,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawadic&" alt="zawadic" /></p>
 
+<h5>Languages🌐/h5>
+<ul>
+  <li>1.Bangla(Mother Language)</li>
+  <li>2.English(Advance)</li>
+  <li>3.Hindi(very very very very basic)</li>
+</ul>
+
 <h5>Sports / Game:</h5>
 <ul>
   <li>🏏Cricket</li>
