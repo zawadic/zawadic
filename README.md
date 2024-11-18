@@ -59,8 +59,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawadic" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawadic&" alt="zawadic" /></p>
-
 <h5>Languages🌐/h5>
 <ul>
   <li>1.Bangla(Mother Language)</li>
