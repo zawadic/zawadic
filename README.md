@@ -65,14 +65,6 @@
   <li>2.English(Advance)</li>
   <li>3.Hindi(very very very very basic)</li>
 </ul>
-
-<h5>Sports / Game:</h5>
-<ul>
-  <li>🏏Cricket</li>
-  <li>⚽Football</li>
-  <li>🏸Badminton</li>
-  <li>🏃💨Running</li>
-</ul>
 <!--
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
