@@ -65,7 +65,7 @@
 <ul>
   <li>1.Bangla(Mother Language)</li>
   <li>2.English(Advance)</li>
-  <li>3.Hindi(very very very very basic)</li>
+  <li>German(very very basic)</li>
 </ul>
 <!--
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
