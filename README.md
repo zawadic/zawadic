@@ -60,13 +60,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawadic&layout=donut)
 
-
-<h5>Languages🌐/h5>
-<ul>
-  <li>1.Bangla(Mother Language)</li>
-  <li>2.English(Advance)</li>
-  <li>German(very very basic)</li>
-</ul>
 <!--
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
