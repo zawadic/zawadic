@@ -56,7 +56,7 @@
 </p>
 
 <h3>📊 GitHub Status</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zawadic&show_icons=true&locale=en" alt="zawadic" /></p>
+ <img src="https://github-readme-stats.vercel.app/api?username=zawadic&show_icons=true&locale=en" alt="zawadic" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zawadic&layout=donut)
 
