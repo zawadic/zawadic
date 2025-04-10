@@ -21,11 +21,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadic&label=Profile%20views&color=red&style=flat" alt="zawadic" /> </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=zawadic&theme=buddhism)
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-zawad-islam-chowdhury-976772330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-zawad-islam-chowdhury-976772330/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-zawad-islam-chowdhury-976772330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-zawad-islam-chowdhury-976772330/" height="30" width="40" /><h6 style="text-decoration:none;">Linkedin</h6>h6></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
