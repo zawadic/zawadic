@@ -23,7 +23,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=zawadic&theme=buddhism)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:inline;">
 <a href="https://linkedin.com/in/md-zawad-islam-chowdhury-976772330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-zawad-islam-chowdhury-976772330/" height="30" width="40" /><h6 style="text-decoration:none;">Linkedin</h6>h6></a>
 </p>
 
